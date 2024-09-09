@@ -1,0 +1,32 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+  color: #000;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 40px 0 0;
+}
+.pagination li {
+  margin: 5px 2px;
+  border: 1px solid #ccc;
+  font-size: small;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+.pagination .active {
+  background: #D6AE3699;
+  color: #fff;
+}
+.pagination li:hover {
+  background: #D6AE3699;
+  color: #fff;
+}
+
+.danger {
+  color: crimson;
+}
+
+.success {
+  color: green;
+}

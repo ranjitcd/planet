@@ -1,0 +1,37 @@
+.product-reviews--content .spr-header-title {
+  margin-bottom: 0;
+  font-size: 1.25rem;
+  color: #222222;
+}
+
+.product-reviews--content .spr-summary {
+  position: relative;
+  margin-top: 0.75rem;
+  font-size: 1.5rem;
+}
+
+.product-reviews--content .spr-summary .spr-starrating {
+  display: inline-block;
+}
+
+.spr-summary-starrating {
+  margin: 0 6px 0 0;
+}
+
+.spr-starratings,
+.spr-starrating {
+  display: inline-block;
+  font-size: 0;
+  vertical-align: middle;
+}
+.product-reviews--content .spr-summary-caption {
+  display: inline-block;
+  margin-top: 0.25rem;
+  margin-left: 0.5rem;
+}
+.product-reviews--content .spr-summary-actions {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-top: 0;
+}

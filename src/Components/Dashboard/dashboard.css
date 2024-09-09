@@ -1,0 +1,18 @@
+.cardHead {
+    -webkit-box-shadow: 0 0 3px 1px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px 1px rgb(0 0 0 / 10%);
+    background: #fcfcfc;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+.cardHead .icon {
+    flex: 0.2;
+}

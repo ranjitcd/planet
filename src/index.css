@@ -1,0 +1,49 @@
+
+
+
+.inputhov {
+    border: 1px dashed rgba(214, 174, 54, 0.6);
+    border-radius: 5px;
+    height:35px ;
+    width: 65%;
+    padding-left: 10px;
+    margin-top: 2px !important;font-size: medium;
+}
+
+
+.inputhovrow {
+    border: 1px dashed rgba(214, 174, 54, 0.6);
+    border-radius: 5px;
+    height:35px ;
+    width: 90%;
+    padding-left: 10px;
+    margin-top: 2px !important;font-size: medium;
+}
+
+
+.inputhovrow:hover {
+    border: 1px solid rgba(214, 174, 54, 1);
+    border-radius: 5px;
+    height:35px ;
+    width: 90%;
+    padding-left: 10px;
+    margin-top: 2px !important;font-size: medium;
+}
+
+.inputhov:hover {
+    border: 1px solid rgba(214, 174, 54, 1);
+    border-radius: 5px;
+    height:35px ;
+    width: 65%;
+    padding-left: 10px;
+    margin-top: 2px !important;font-size: medium;
+}
+.inputhov:focus {
+    border: 1px solid rgba(214, 174, 54, 1);
+    border-radius: 5px;
+    height:35px ;
+    width: 65%;
+    padding-left: 10px;
+    
+    margin-top: 2px !important;font-size: medium;
+}
